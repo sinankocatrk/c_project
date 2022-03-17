@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//challenge: girilen sayının kaç basamaklı olduğunu algılayıp ona göre içinde kaç tane 7 olduğunu bulan c algoritmasını yazın
 int main()
 {
     int sayi,temp,a=0,counter,kalan;
