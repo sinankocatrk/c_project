@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
     int sayi,temp,a=0,counter,kalan;
     int basamak = 0;
